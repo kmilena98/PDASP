@@ -105,6 +105,12 @@ infoln "Joining org2 peer to the channel..."
 joinChannel 2 1
 infoln "Joining org2 peer to the channel..."
 joinChannel 3 1
+infoln "Joining org1 peer to the channel..."
+joinChannel 1 2
+infoln "Joining org2 peer to the channel..."
+joinChannel 2 2
+infoln "Joining org2 peer to the channel..."
+joinChannel 3 2
 
 
 
