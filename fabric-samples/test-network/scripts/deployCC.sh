@@ -180,13 +180,13 @@ commitChaincodeDefinition 1 2 3
 ## query on both orgs to see that the definition committed successfully
 queryCommitted 1 0
 queryCommitted 2 0
-queryCommitted 2 0
+queryCommitted 3 0
 queryCommitted 1 1
 queryCommitted 2 1
-queryCommitted 2 1
+queryCommitted 3 1
 queryCommitted 1 2
 queryCommitted 2 2
-queryCommitted 2 2
+queryCommitted 3 2
 
 ## Invoke the chaincode - this does require that the chaincode have the 'initLedger'
 ## method defined
